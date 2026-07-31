@@ -8,6 +8,7 @@ Thanks for wanting to add a tool! Please read this before opening a PR.
 - It must be **free** to use for the core functionality described.
 - Prefer tools that do **client-side processing** (no file/data upload to a server) — this isn't a hard requirement, but it's a strong plus and should be noted in the description if true.
 - No tools that require a credit card to start, even for a "free trial".
+- Ads or analytics (e.g. AdSense, Google Analytics) on the tool's site are **not** a reason to exclude it. "No signup" and "client-side" refer to how the tool itself processes your data, not to whether the site is ad-supported. Don't claim a tool has no tracking unless you've actually verified it.
 
 If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we don't reconsider it without a reason.
 
@@ -26,7 +27,7 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
 ## Description guidelines
 
 - One sentence, factual, no marketing language ("best", "amazing", "revolutionary").
-- Mention if it's client-side/privacy-friendly when true.
+- Mention if it's client-side processing when true, but don't describe a tool as "privacy-friendly" just because it's client-side — ads/analytics may still be present.
 - End with a period.
 
 ## Checklist before opening a PR

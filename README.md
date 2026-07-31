@@ -2,7 +2,7 @@
 
 # Awesome No-Signup Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side (privacy-friendly).
+> A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side. No account and no data upload required; note that some tools may still run ads or analytics.
 
 No accounts. No email walls. No "sign up to continue". Just tools you can use right now.
 
