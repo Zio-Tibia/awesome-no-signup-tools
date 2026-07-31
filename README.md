@@ -26,31 +26,41 @@ No accounts. No email walls. No "sign up to continue". Just tools you can use ri
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Diffchecker](https://www.diffchecker.com/) | DevTools | Compare text, files, images, or JSON side-by-side; no signup required for standard diffs. |
+| [Regex101](https://regex101.com/) | DevTools | Regex tester and debugger with real-time explanation, no signup, runs matching client-side in the browser. |
 
 ## Design
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Photopea](https://www.photopea.com/) | Design | Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side. |
+| [Excalidraw](https://excalidraw.com/) | Design | Free virtual whiteboard for sketches and diagrams, no signup, open-source, runs entirely client-side. |
 
 ## Productivity
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Pomofocus](https://pomofocus.io/) | Productivity | Customizable Pomodoro timer with task tracking, no signup required to start a session. |
+| [draw.io](https://app.diagrams.net/) | Productivity | Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage. |
 
 ## Privacy
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Bitwarden Password Generator](https://bitwarden.com/password-generator/) | Privacy | Generates strong random passwords and passphrases, no signup, processed client-side in the browser. |
+| [Have I Been Pwned](https://haveibeenpwned.com/) | Privacy | Checks whether an email or password has appeared in a known data breach, no signup required for a lookup. |
 
 ## Converters
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Squoosh](https://squoosh.app/) | Converters | Image compression and format conversion tool by Google, no signup, runs entirely client-side via WebAssembly. |
 
 ## Text & Writing
 
 | Tool | Category | Description |
 | --- | --- | --- |
+| [Hemingway Editor](https://hemingwayapp.com/) | Text & Writing | Highlights hard-to-read sentences and suggests simpler alternatives, no signup, the web editor runs client-side. |
 
 ## Contributing
 
