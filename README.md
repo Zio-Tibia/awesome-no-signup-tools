@@ -1,3 +1,5 @@
+![Awesome No-Signup Tools](.github/assets/banner.png)
+
 # Awesome No-Signup Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side (privacy-friendly).
