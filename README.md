@@ -57,6 +57,9 @@ Know a tool that fits? See the [contributing guidelines](contributing.md) and op
 | [Pomofocus](https://pomofocus.io/) | Productivity | Customizable Pomodoro timer with task tracking, no signup required to start a session. |
 | [draw.io](https://app.diagrams.net/) | Productivity | Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage. |
 | [World Time Buddy](https://www.worldtimebuddy.com/) | Productivity | Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings). |
+| [Desmos](https://www.desmos.com/scientific) | Productivity | Free scientific and graphing calculator, no signup required. |
+| [MindMup](https://www.mindmup.com/) | Productivity | Browser-based mind mapping tool, no signup required to create a map. |
+| [Privnote](https://privnote.com/) | Productivity | Creates a self-destructing note that deletes itself after being read once, no signup required. |
 
 ## Privacy
 
