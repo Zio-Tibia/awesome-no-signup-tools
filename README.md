@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [JSFiddle](https://jsfiddle.net/) - Online HTML/CSS/JS code editor and playground, no signup required to create and run a fiddle.
 - [JSONLint](https://jsonlint.com/) - Validates and reformats JSON, no signup required.
 - [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
+- [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
 
 ## Design
 
@@ -50,6 +51,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
 - [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
 - [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
+- [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 
 ## Privacy
 
@@ -65,6 +67,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
 - [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
+- [TryQuickImg](https://tryquickimg.com/) - HEIC to JPG, compress to a KB target, resize, crop, and QR tools with no signup; image processing runs client-side in the browser.
 
 ## Text & Writing
 
