@@ -2,6 +2,8 @@
 
 Thanks for wanting to add a tool! Please read this before opening a PR.
 
+If you find this list useful, consider [starring the repo](https://github.com/Zio-Tibia/awesome-no-signup-tools) — it helps others discover it.
+
 ## What qualifies
 
 - The tool must be usable **without creating an account or signing up** (no email gate, no OAuth wall).
@@ -38,3 +40,4 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
 - [ ] The description is factual and follows the format above
 - [ ] The link goes directly to the tool (not an affiliate/referral link)
 - [ ] I am not the owner of the tool, or I have disclosed that I am in the PR description
+- [ ] (Optional) I starred the repo
