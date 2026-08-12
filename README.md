@@ -52,6 +52,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
 - [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
 - [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
+- [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
 
 ## Privacy
 
