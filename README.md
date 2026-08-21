@@ -37,22 +37,29 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Design
 
-- [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
-- [Excalidraw](https://excalidraw.com/) - Free virtual whiteboard for sketches and diagrams, no signup, open-source, runs entirely client-side.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser CSS theme builder for OpenAI Codex CLI, no signup required.
 - [Coolors](https://coolors.co/) - Color palette generator, no signup required to generate and explore palettes (saving palettes requires an account).
+- [Excalidraw](https://excalidraw.com/) - Free virtual whiteboard for sketches and diagrams, no signup, open-source, runs entirely client-side.
 - [Google Fonts](https://fonts.google.com/) - Browse and download open-source fonts, no signup required.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Converts a photo into a crochet pattern in the browser, no signup required.
+- [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
 - [Unsplash](https://unsplash.com/) - Browse and download free high-resolution stock photos, no signup required.
 
 ## Productivity
 
-- [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
-- [draw.io](https://app.diagrams.net/) - Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage.
-- [World Time Buddy](https://www.worldtimebuddy.com/) - Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings).
-- [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
-- [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
-- [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
-- [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 - [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
+- [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
+- [draw.io](https://app.diagrams.net/) - Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free stitch-count and embroidery pricing calculator, no signup required.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free lawn mowing cost estimates by area, rate, and extras, no signup required.
+- [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
+- [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free pressure-washer troubleshooting guides and parts lookup, no signup required.
+- [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
+- [SkyCOTL Tools](https://skycotl.tools) - Free companion tools for Sky: Children of the Light, no signup required.
+- [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances, no signup required.
+- [World Time Buddy](https://www.worldtimebuddy.com/) - Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings).
 
 ## Privacy
 
