@@ -78,6 +78,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeepL Translate](https://www.deepl.com/translator) - Machine translation across 30+ languages, no signup required for the web translator.
 - [Google Translate](https://translate.google.com/) - Machine translation across 100+ languages, no signup required.
 - [Duplicate Line Remover](https://nutilz.com/duplicate-line-remover) - Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, no signup, runs entirely client-side in the browser.
+- [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
 
 ## Contributing
 
