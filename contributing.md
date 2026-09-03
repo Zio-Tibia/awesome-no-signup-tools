@@ -11,6 +11,7 @@ If you find this list useful, consider [starring the repo](https://github.com/Zi
 - Prefer tools that do **client-side processing** (no file/data upload to a server) — this isn't a hard requirement, but it's a strong plus and should be noted in the description if true.
 - No tools that require a credit card to start, even for a "free trial".
 - Ads or analytics (e.g. AdSense, Google Analytics) on the tool's site are **not** a reason to exclude it. "No signup" and "client-side" refer to how the tool itself processes your data, not to whether the site is ad-supported. Don't claim a tool has no tracking unless you've actually verified it.
+- **One tool per domain.** Only one page from a given root domain (e.g. `example.com`) may be listed, regardless of subpage, tool, or language variant. This keeps the list diverse and prevents it from being used to bulk-list every page of a single site. Link to the domain's main/root tool page, not a specific sub-tool, unless the root domain isn't itself a usable tool.
 
 If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we don't reconsider it without a reason.
 
@@ -40,4 +41,5 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
 - [ ] The description is factual and follows the format above
 - [ ] The link goes directly to the tool (not an affiliate/referral link)
 - [ ] I am not the owner of the tool, or I have disclosed that I am in the PR description
+- [ ] No other tool from the same root domain is already listed
 - [ ] (Optional) I starred the repo
