@@ -42,7 +42,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Coolors](https://coolors.co/) - Color palette generator, no signup required to generate and explore palettes (saving palettes requires an account).
 - [Google Fonts](https://fonts.google.com/) - Browse and download open-source fonts, no signup required.
 - [Unsplash](https://unsplash.com/) - Browse and download free high-resolution stock photos, no signup required.
-
+- [PixHeic](https://pixheic.com/) – 100% private in-browser HEIC toolkit for instant batch conversion to JPG, PNG, WebP and PDF via WebAssembly, no signup required.
+  
 ## Productivity
 
 - [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
