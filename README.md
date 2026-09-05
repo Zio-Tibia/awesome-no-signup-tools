@@ -26,6 +26,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [goQR.me](https://goqr.me/) - Generates QR codes in PNG, EPS, and SVG, no signup required.
 - [RANDOM.ORG](https://www.random.org/) - True random number, sequence, and password generator, no signup required for the free tools.
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
+- [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 
 ## DevTools
 
