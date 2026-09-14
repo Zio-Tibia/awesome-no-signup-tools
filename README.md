@@ -25,6 +25,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Speedtest by Ookla](https://www.speedtest.net/) - Tests internet connection speed (download, upload, ping), no signup required.
 - [goQR.me](https://goqr.me/) - Generates QR codes in PNG, EPS, and SVG, no signup required.
 - [RANDOM.ORG](https://www.random.org/) - True random number, sequence, and password generator, no signup required for the free tools.
+- [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 
 ## DevTools
 
@@ -53,6 +54,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
 - [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 - [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
+- [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
 
 ## Privacy
 
