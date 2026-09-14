@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zio-tibia.github.io/awesome-no-signup-tools/sitemap.xml
