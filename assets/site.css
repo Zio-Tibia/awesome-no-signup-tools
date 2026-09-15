@@ -251,6 +251,18 @@ header.hud{
   overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0;
 }
 
+.konami-toast{
+  position:fixed; left:50%; bottom:28px; transform:translate(-50%, 12px);
+  background: var(--panel-raised); border:1px solid var(--signal);
+  color: var(--signal-strong); font-size:0.82rem; font-weight:600;
+  padding:12px 20px; border-radius:8px; letter-spacing:0.02em;
+  box-shadow:0 8px 24px -6px rgba(87,232,206,0.35);
+  opacity:0; transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index:100; pointer-events:none;
+}
+.konami-toast.show{ opacity:1; transform:translate(-50%, 0); }
+@media (prefers-reduced-motion: reduce){ .konami-toast{ transition:none; } }
+
 footer{
   margin-top:72px; padding-block:40px 48px; border-top:1px solid var(--line);
   display:flex; flex-wrap:wrap; gap:24px; justify-content:space-between;

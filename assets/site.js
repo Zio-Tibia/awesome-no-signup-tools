@@ -279,6 +279,59 @@ function setUpSearch(totalTools) {
   });
 }
 
+function logConsoleBanner() {
+  console.log(
+    "%c SIGNAL_DECK ",
+    "background:#57E8CE;color:#04231D;font-family:monospace;font-weight:700;padding:2px 8px;border-radius:3px;"
+  );
+  console.log(
+    "%cYou found the console. No signup required here either.\nSource: https://github.com/Zio-Tibia/awesome-no-signup-tools",
+    "color:#9AACBB;font-family:monospace;font-size:12px;"
+  );
+}
+
+const KONAMI_SEQUENCE = [
+  "ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown",
+  "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight",
+  "b", "a",
+];
+
+function setUpKonamiCode() {
+  let progress = 0;
+
+  window.addEventListener("keydown", (event) => {
+    const key = event.key.length === 1 ? event.key.toLowerCase() : event.key;
+    progress = key === KONAMI_SEQUENCE[progress] ? progress + 1 : 0;
+
+    if (progress === KONAMI_SEQUENCE.length) {
+      progress = 0;
+      runKonamiSequence();
+    }
+  });
+}
+
+function runKonamiSequence() {
+  const rows = document.querySelectorAll(".row:not([hidden])");
+  rows.forEach((row, i) => {
+    setTimeout(() => {
+      row.classList.add("just-logged");
+      setTimeout(() => row.classList.remove("just-logged"), 650);
+    }, i * 25);
+  });
+
+  const toast = document.createElement("div");
+  toast.className = "konami-toast mono";
+  toast.textContent = "ACCESS LEVEL: NERD — welcome to the deck";
+  document.body.append(toast);
+  requestAnimationFrame(() => toast.classList.add("show"));
+  setTimeout(() => {
+    toast.classList.remove("show");
+    setTimeout(() => toast.remove(), 400);
+  }, 3200);
+}
+
 const totalTools = renderDeck();
 startClock();
 setUpSearch(totalTools);
+logConsoleBanner();
+setUpKonamiCode();
