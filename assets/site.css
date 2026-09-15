@@ -204,6 +204,13 @@ header.hud{
 @keyframes freq-pulse{ 50%{ border-left-color: color-mix(in srgb, var(--freq-3) 60%, transparent); } }
 @media (prefers-reduced-motion: reduce){ .row.freq-3{ animation: none; } }
 
+.row.just-logged{ animation: logged-flash 0.6s ease-out; }
+@keyframes logged-flash{
+  0%{ background: var(--signal-soft); border-left-color: var(--signal); }
+  100%{ background: transparent; }
+}
+@media (prefers-reduced-motion: reduce){ .row.just-logged{ animation: none; background: var(--signal-soft); } }
+
 .row .name{ display:flex; align-items:center; gap:8px; }
 .row .name a{
   font-family:"JetBrains Mono"; font-weight:600; font-size:0.93rem;

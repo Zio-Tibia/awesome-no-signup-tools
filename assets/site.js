@@ -62,24 +62,28 @@ const SECTORS = [
 ];
 
 const ACCESS_LOG_KEY = "signal-deck:access-log";
+// Fallback for when localStorage is blocked (private browsing, sandboxed preview) —
+// counts still update for the current tab even though they won't persist.
+const memoryAccessLog = {};
 
 function readAccessLog() {
   try {
     return JSON.parse(localStorage.getItem(ACCESS_LOG_KEY)) || {};
   } catch {
-    return {};
+    return { ...memoryAccessLog };
   }
 }
 
 function recordAccess(url) {
+  memoryAccessLog[url] = (memoryAccessLog[url] || 0) + 1;
   try {
     const log = readAccessLog();
-    log[url] = (log[url] || 0) + 1;
+    log[url] = memoryAccessLog[url];
     localStorage.setItem(ACCESS_LOG_KEY, JSON.stringify(log));
-    return log[url];
   } catch {
-    return 0;
+    // memory fallback above already recorded this click
   }
+  return memoryAccessLog[url];
 }
 
 function frequencyClass(count) {
@@ -116,8 +120,9 @@ function buildToolRow([name, url, description, clientSide], accessLog) {
   link.textContent = name;
   link.addEventListener("click", () => {
     const newCount = recordAccess(url);
-    row.className = `row ${frequencyClass(newCount)}`.trim();
+    row.className = `row just-logged ${frequencyClass(newCount)}`.trim();
     updateAccessBadge(row, newCount);
+    setTimeout(() => row.classList.remove("just-logged"), 650);
   });
   nameCell.append(link);
 
