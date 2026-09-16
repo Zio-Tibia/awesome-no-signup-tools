@@ -113,10 +113,12 @@ function buildToolRow([name, url, description, clientSide], accessLog) {
   const nameCell = document.createElement("div");
   nameCell.className = "name";
 
+  const isDofollow = new URL(url).hostname === "charcount.app";
+
   const link = document.createElement("a");
   link.href = url;
   link.target = "_blank";
-  link.rel = "noopener";
+  link.rel = isDofollow ? "noopener" : "noopener nofollow";
   link.textContent = name;
   link.addEventListener("click", () => {
     const newCount = recordAccess(url);
