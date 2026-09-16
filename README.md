@@ -1,3 +1,4 @@
+![Awesome No-Signup Tools](.github/assets/banner.png)
 
 # Awesome No-Signup Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
 
