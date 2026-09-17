@@ -51,7 +51,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 ## Productivity
 
 - [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
-- [draw.io](https://app.diagrams.net/) - Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage.
 - [World Time Buddy](https://www.worldtimebuddy.com/) - Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings).
 - [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
 - [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
@@ -62,8 +61,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Privacy
 
-- [Bitwarden Password Generator](https://bitwarden.com/password-generator/) - Generates strong random passwords and passphrases, no signup, processed client-side in the browser.
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Checks whether an email or password has appeared in a known data breach, no signup required for a lookup.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of a domain's SSL/TLS configuration by Qualys, no signup required.
 - [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.
@@ -71,7 +68,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Converters
 
-- [Squoosh](https://squoosh.app/) - Image compression and format conversion tool by Google, no signup, runs entirely client-side via WebAssembly.
 - [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
 - [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
@@ -80,7 +76,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Text & Writing
 
-- [Hemingway Editor](https://hemingwayapp.com/) - Highlights hard-to-read sentences and suggests simpler alternatives, no signup, the web editor runs client-side.
 - [LanguageTool](https://languagetool.org/) - Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.
 - [DeepL Translate](https://www.deepl.com/translator) - Machine translation across 30+ languages, no signup required for the web translator.
 - [Google Translate](https://translate.google.com/) - Machine translation across 100+ languages, no signup required.
