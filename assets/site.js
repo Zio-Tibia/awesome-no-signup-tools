@@ -8,6 +8,7 @@ const SECTORS = [
     ["Audio Cutter Online", "https://audiocutter.online/", "Cuts, trims, joins, and fades audio; exports MP3, WAV, FLAC, OGG, M4A, AIFF.", true],
     ["FreeToolHub", "https://freetoolhub.org/", "190+ free calculators and file utilities covering tax, finance, PDF and image work.", true],
     ["BuildEstimate", "https://buildestimate.xyz/", "Construction material calculators — concrete, brick, paint, tile, gravel.", true],
+    ["Stock Average Calculator", "https://stockavg.com/", "Share cost basis, averaging down, dividend, profit and CAGR calculators.", true],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side.", false],
@@ -23,6 +24,7 @@ const SECTORS = [
     ["Coolors", "https://coolors.co/", "Color palette generator (saving palettes requires an account).", false],
     ["Google Fonts", "https://fonts.google.com/", "Browse and download open-source fonts.", false],
     ["Unsplash", "https://unsplash.com/", "Browse and download free high-resolution stock photos.", false],
+    ["AI Coloring Page Generator", "https://photlin.com/", "Converts a photo into black-and-white line art, exports a printable A4/US Letter page at 300 DPI.", true],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking.", false],
