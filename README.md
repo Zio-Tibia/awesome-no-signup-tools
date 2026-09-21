@@ -29,6 +29,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
+- [ToolVerse US](https://toolverseus.com/) - Collection of 1000+ free online tools — text, PDF, image, dev, calculators — no sign-up required.
 
 ## DevTools
 
