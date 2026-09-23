@@ -1,0 +1,71 @@
+name: Sync site data from README
+
+# README.md is the single source of truth for the tool list. This regenerates
+# assets/tools.js and the JSON-LD in index.html so the GitHub Pages site never
+# drifts from the README after a PR is merged.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/build-site-data.mjs
+      - assets/tools.js
+      - index.html
+  pull_request:
+    paths:
+      - README.md
+      - scripts/build-site-data.mjs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: sync-site-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # On PRs: fail early if a new README entry can't be parsed, so the
+      # contributor fixes the format before merge.
+      - name: Validate README entries
+        if: github.event_name == 'pull_request'
+        run: node scripts/build-site-data.mjs > /dev/null
+
+      - name: Regenerate site data
+        if: github.event_name != 'pull_request'
+        run: node scripts/build-site-data.mjs
+
+      - name: Commit and push if changed
+        id: push
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet; then
+            echo "Site data already in sync."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/tools.js index.html
+          git commit -m "Sync site data from README.md"
+          git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # Pushes made with GITHUB_TOKEN may not start a Pages build on their own,
+      # so ask for one explicitly to publish the regenerated files.
+      - name: Request GitHub Pages build
+        if: steps.push.outputs.pushed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
