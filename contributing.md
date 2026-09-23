@@ -26,7 +26,8 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
    - [Tool Name](https://example.com/) - Short, factual description ending in a period.
    ```
 
-4. If your tool doesn't fit an existing category, propose a new one in your PR description — don't create it silently.
+4. Only edit `README.md`. The website's data (`assets/tools.js` and the tool list in `index.html`) is regenerated from the README automatically after merge — don't edit those files by hand.
+5. If your tool doesn't fit an existing category, propose a new one in your PR description — don't create it silently.
 
 ## Description guidelines
 
