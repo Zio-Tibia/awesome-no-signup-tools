@@ -28,6 +28,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
+- [ToolVerse US](https://toolverseus.com/) - Collection of 1000+ free online tools — text, PDF, image, dev, calculators — no sign-up required.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
 - [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
 
@@ -60,6 +61,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 - [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
 - [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
+- [Drag Task](https://drag-task.web.app/demo) - Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.
 - [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
 
 ## Privacy
