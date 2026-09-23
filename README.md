@@ -40,6 +40,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [JSONLint](https://jsonlint.com/) - Validates and reformats JSON, no signup required.
 - [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
 - [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
+- [QuickTiny JSON Formatter](https://quicktinyv2.vercel.app/json-formatter) - Formats and validates JSON, explains syntax errors and fixes common cases, with no signup and client-side processing.
 
 ## Design
 
