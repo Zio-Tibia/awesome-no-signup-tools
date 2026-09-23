@@ -59,6 +59,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 - [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
 - [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
+- [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
 
 ## Privacy
 
