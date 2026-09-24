@@ -60,7 +60,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
 - [NextReset](https://nextreset.ai/) - Review observed Codex reset history and official incident sources without signup; the personal timer is stored locally in the browser.
 
-
 ## Privacy
 
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of a domain's SSL/TLS configuration by Qualys, no signup required.
