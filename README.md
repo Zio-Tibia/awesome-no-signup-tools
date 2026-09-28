@@ -31,6 +31,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [ToolVerse US](https://toolverseus.com/) - Collection of 1000+ free online tools — text, PDF, image, dev, calculators — no sign-up required.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
 - [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
+- [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
 
 ## DevTools
 
