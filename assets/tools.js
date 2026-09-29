@@ -10,7 +10,6 @@ const SECTORS = [
     ["Audio Cutter Online", "https://audiocutter.online/", "Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, runs entirely client-side in the browser.", true],
     ["FreeToolHub", "https://freetoolhub.org/", "Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, runs client-side in the browser.", true],
     ["BuildEstimate", "https://buildestimate.xyz/", "Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, calculations run client-side.", true],
-    ["ToolVerse US", "https://toolverseus.com/", "Collection of 1000+ free online tools — text, PDF, image, dev, calculators.", false],
     ["Stock Average Calculator", "https://stockavg.com/", "Share cost basis, averaging down, dividend, profit and CAGR calculators, calculations run client-side in the browser.", true],
     ["Utilia", "https://utilia-gratis.adriano-aimar12.workers.dev/", "Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.", false],
     ["kdpbook.io Word Search Maker", "https://kdpbook.io/kdp/word-search-maker", "Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, runs client-side in the browser.", true],
@@ -58,6 +57,7 @@ const SECTORS = [
     ["TryQuickImg", "https://tryquickimg.com/", "HEIC to JPG, compress to a KB target, resize, crop, and QR tools; image processing runs client-side in the browser.", true],
     ["AVIF to JPG Converter", "https://nutilz.com/avif-to-jpg", "Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, runs entirely client-side in the browser.", true],
     ["Image to ASCII", "https://imagetoascii.art/", "Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, with image processing in the browser.", false],
+    ["FileOnTap", "https://fileontap.com/", "Free image and PDF converter; files are processed locally in the browser and are not uploaded.", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],

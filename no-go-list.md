@@ -4,3 +4,4 @@ Tools that were proposed but rejected, so we don't reconsider them without a new
 
 | Tool | Reason |
 | --- | --- |
+| ToolVerse US (toolverseus.com) | Mega-directory of 1000+ generic tools; the list curates individual tools, not aggregators (see contributing.md). |

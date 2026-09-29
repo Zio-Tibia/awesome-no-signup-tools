@@ -28,7 +28,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
-- [ToolVerse US](https://toolverseus.com/) - Collection of 1000+ free online tools — text, PDF, image, dev, calculators — no sign-up required.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
 - [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
@@ -81,6 +80,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TryQuickImg](https://tryquickimg.com/) - HEIC to JPG, compress to a KB target, resize, crop, and QR tools with no signup; image processing runs client-side in the browser.
 - [AVIF to JPG Converter](https://nutilz.com/avif-to-jpg) - Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, no signup, runs entirely client-side in the browser.
 - [Image to ASCII](https://imagetoascii.art/) - Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, no signup, with image processing in the browser.
+- [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
 
 ## Text & Writing
 
