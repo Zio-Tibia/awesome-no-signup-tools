@@ -3,10 +3,6 @@
 const SECTORS = [
   { id: "utilities", label: "Utilities", tools: [
     ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
-    ["TinyURL", "https://tinyurl.com/", "Shortens a long URL into a short link, no signup required for a single link.", false],
-    ["Speedtest by Ookla", "https://www.speedtest.net/", "Tests internet connection speed (download, upload, ping).", false],
-    ["goQR.me", "https://goqr.me/", "Generates QR codes in PNG, EPS, and SVG.", false],
-    ["RANDOM.ORG", "https://www.random.org/", "True random number, sequence, and password generator, no signup required for the free tools.", false],
     ["Audio Cutter Online", "https://audiocutter.online/", "Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, runs entirely client-side in the browser.", true],
     ["FreeToolHub", "https://freetoolhub.org/", "Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, runs client-side in the browser.", true],
     ["BuildEstimate", "https://buildestimate.xyz/", "Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, calculations run client-side.", true],

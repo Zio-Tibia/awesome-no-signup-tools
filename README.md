@@ -21,10 +21,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 ## Utilities
 
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
-- [TinyURL](https://tinyurl.com/) - Shortens a long URL into a short link, no signup required for a single link.
-- [Speedtest by Ookla](https://www.speedtest.net/) - Tests internet connection speed (download, upload, ping), no signup required.
-- [goQR.me](https://goqr.me/) - Generates QR codes in PNG, EPS, and SVG, no signup required.
-- [RANDOM.ORG](https://www.random.org/) - True random number, sequence, and password generator, no signup required for the free tools.
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
