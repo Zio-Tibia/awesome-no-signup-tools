@@ -62,8 +62,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Privacy
 
-- [MetWipe](https://metwipe.com/) - Inspects, removes and verifies supported metadata from photos, audio and Office files with no signup; supported file processing runs locally in the browser.
-
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of a domain's SSL/TLS configuration by Qualys, no signup required.
 - [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.

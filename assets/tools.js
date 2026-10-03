@@ -40,7 +40,6 @@ const SECTORS = [
     ["OutilCalcul", "https://outilcalcul.com", "Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations).", false],
   ]},
   { id: "privacy", label: "Privacy", tools: [
-    ["MetWipe", "https://metwipe.com/", "Inspects, removes and verifies supported metadata from photos, audio and Office files; supported file processing runs locally in the browser.", true],
     ["SSL Server Test", "https://www.ssllabs.com/ssltest/", "Deep analysis of a domain's SSL/TLS configuration by Qualys.", false],
     ["VirusTotal", "https://www.virustotal.com/", "Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.", false],
     ["Cover Your Tracks", "https://coveryourtracks.eff.org/", "Tests how well your browser is protected from tracking and fingerprinting, a project of the EFF.", false],
