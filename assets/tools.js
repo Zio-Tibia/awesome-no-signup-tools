@@ -2,7 +2,6 @@
 // Source: README.md. Regenerate with: node scripts/build-site-data.mjs
 const SECTORS = [
   { id: "utilities", label: "Utilities", tools: [
-    ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
     ["Audio Cutter Online", "https://audiocutter.online/", "Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, runs entirely client-side in the browser.", true],
     ["FreeToolHub", "https://freetoolhub.org/", "Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, runs client-side in the browser.", true],
     ["BuildEstimate", "https://buildestimate.xyz/", "Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, calculations run client-side.", true],
@@ -61,5 +60,6 @@ const SECTORS = [
     ["Google Translate", "https://translate.google.com/", "Machine translation across 100+ languages.", false],
     ["Duplicate Line Remover", "https://nutilz.com/duplicate-line-remover", "Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, runs entirely client-side in the browser.", true],
     ["Need Go Home", "https://needgohome.netlify.app/", "Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, runs client-side in the browser.", true],
+    ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
   ]},
 ];

@@ -20,7 +20,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Utilities
 
-- [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
@@ -85,6 +84,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Google Translate](https://translate.google.com/) - Machine translation across 100+ languages, no signup required.
 - [Duplicate Line Remover](https://nutilz.com/duplicate-line-remover) - Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, no signup, runs entirely client-side in the browser.
 - [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
+- [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 
 ## Contributing
 
