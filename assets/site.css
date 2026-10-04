@@ -138,6 +138,9 @@ header.hud{
 .telemetry div:last-child{ border-right:0; }
 .telemetry .n{ font-size:1.4rem; font-weight:700; color: var(--signal-strong); display:block; font-variant-numeric: tabular-nums; }
 .telemetry .l{ font-size:0.68rem; color: var(--ink-faint); text-transform:uppercase; letter-spacing:0.07em; }
+.hero p.legend{ margin: 12px 0 0; font-size:0.74rem; color: var(--ink-faint); max-width: 62ch; }
+.hero p.legend .mono{ color: var(--ink-soft); }
+.hero p.legend .tag-local{ color: var(--signal-strong); }
 
 .hero-ctas{ display:flex; gap:12px; margin-top: 28px; flex-wrap: wrap; }
 .btn{

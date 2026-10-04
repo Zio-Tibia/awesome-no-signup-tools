@@ -2,9 +2,11 @@
 
 # Awesome No-Signup Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
 
-> A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side. No account and no data upload required; note that some tools may still run ads or analytics.
+> A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side. No account required; note that some tools may still run ads or analytics.
 
 No accounts. No email walls. No "sign up to continue". Just tools you can use right now.
+
+On the [website](https://zio-tibia.github.io/awesome-no-signup-tools/), each tool is tagged **LOCAL** if its description says your data stays in the browser, or **UPLINK** if it doesn't say so (your data may be sent to a server). The tags come from the tools' own descriptions and aren't independently verified.
 
 Know a tool that fits? See the contributing guidelines (linked in the badge above) and open a PR.
 

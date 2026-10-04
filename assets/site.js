@@ -81,6 +81,9 @@ function buildToolRow([name, url, description, clientSide], accessLog) {
   const label = document.createElement("span");
   label.className = "signal-label mono";
   label.textContent = clientSide ? "LOCAL" : "UPLINK";
+  tagsCell.title = clientSide
+    ? "LOCAL: the tool says your data stays in your browser (not independently verified)"
+    : "UPLINK: the tool doesn't say it runs locally; your data may be sent to a server";
   tagsCell.append(label, makeBars(clientSide));
 
   row.append(nameCell, descCell, tagsCell);
