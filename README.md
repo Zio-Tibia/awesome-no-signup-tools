@@ -90,6 +90,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 
+- [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, reading time calculator, and keyword density analyzer. No signup required, privacy-friendly.
 ## Contributing
 
 Tools that don't meet our criteria are tracked in [no-go-list.md](no-go-list.md). See the contributing guidelines linked above for how to add a tool.
