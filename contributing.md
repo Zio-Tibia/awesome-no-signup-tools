@@ -15,6 +15,8 @@ If you find this list useful, consider [starring the repo](https://github.com/Zi
 - **No mega-directories or tool aggregators.** Sites whose pitch is "1000+ tools" or a large generic collection spanning many unrelated categories are not accepted, even if individual tools within them would otherwise qualify. This list curates specific, individual tools — not other directories. Link directly to the specific tool that fits a category, not to a hub page listing hundreds of tools.
 - **The tool should be the main thing on its page.** A free tool used mainly as a lead-in to a paid service (most of the page selling consulting, audits, kits or similar offers) is not accepted. Paid plans or upsells alongside a tool that stands on its own are fine.
 
+Listed tools get random spot checks after they're added. A tool that no longer meets these rules (for example, it starts requiring an account or puts its main feature behind a paywall) is removed.
+
 If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we don't reconsider it without a reason.
 
 ## How to add a tool

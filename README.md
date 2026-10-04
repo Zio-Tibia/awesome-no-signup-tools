@@ -6,7 +6,7 @@
 
 No accounts. No email walls. No "sign up to continue". Just tools you can use right now.
 
-On the [website](https://zio-tibia.github.io/awesome-no-signup-tools/), each tool is tagged **LOCAL** if its description says your data stays in the browser, or **UPLINK** if it doesn't say so (your data may be sent to a server). The tags come from the tools' own descriptions and aren't independently verified.
+On the [website](https://zio-tibia.github.io/awesome-no-signup-tools/), each tool is tagged **LOCAL** if its description says your data stays in the browser, or **UPLINK** if it doesn't say so (your data may be sent to a server). The tags come from the tools' own descriptions and aren't independently verified. Every tool is reviewed against the [contributing rules](contributing.md) before it's added, and listed tools get random spot checks; a tool that no longer follows them is removed.
 
 Know a tool that fits? See the contributing guidelines (linked in the badge above) and open a PR.
 
