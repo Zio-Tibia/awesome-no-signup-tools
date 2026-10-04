@@ -27,9 +27,10 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
 
+- [ToolVerse US](https://toolverseus.com) — 1000+ free online tools: text, PDF, image, code, calculators and more. No sign-up, no watermarks.
 ## DevTools
 
-- [ToolVerse US](https://toolverseus.com) — 1000+ free online tools: text, PDF, image, code, calculators and more. No sign-up, no watermarks.
+
 - [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
 - [Regex101](https://regex101.com/) - Regex tester and debugger with real-time explanation, no signup, runs matching client-side in the browser.
 - [JSFiddle](https://jsfiddle.net/) - Online HTML/CSS/JS code editor and playground, no signup required to create and run a fiddle.
