@@ -89,6 +89,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Duplicate Line Remover](https://nutilz.com/duplicate-line-remover) - Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, no signup, runs entirely client-side in the browser.
 - [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
+- [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 
 ## Contributing
 
