@@ -80,6 +80,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [AVIF to JPG Converter](https://nutilz.com/avif-to-jpg) - Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, no signup, runs entirely client-side in the browser.
 - [Image to ASCII](https://imagetoascii.art/) - Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, no signup, with image processing in the browser.
 - [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
+- [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 5 files and 20MB total).
 
 ## Text & Writing
 
