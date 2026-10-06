@@ -98,4 +98,3 @@ Tools that don't meet our criteria are tracked in [no-go-list.md](no-go-list.md)
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
-
