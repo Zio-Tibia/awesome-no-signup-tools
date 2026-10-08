@@ -18,6 +18,7 @@ const SECTORS = [
     ["Can I Use", "https://caniuse.com/", "Browser support tables for HTML5, CSS3, and other web technologies.", false],
     ["TryDevSnip", "https://trydevsnip.com/", "JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser; processing stays client-side.", true],
     ["QuickTiny", "https://quicktinyv2.vercel.app/", "Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities; processing runs client-side.", true],
+    ["DeployPost", "https://deploypost.com/", "Checks a public website for search metadata, shared-link previews, and email DNS records without an account.", false],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
@@ -64,5 +65,6 @@ const SECTORS = [
     ["Duplicate Line Remover", "https://nutilz.com/duplicate-line-remover", "Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, runs entirely client-side in the browser.", true],
     ["Need Go Home", "https://needgohome.netlify.app/", "Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, runs client-side in the browser.", true],
     ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
+    ["Word Counter Suite", "https://wordcountersuite.com", "Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator.", false],
   ]},
 ];
