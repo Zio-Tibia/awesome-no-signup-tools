@@ -55,6 +55,7 @@ const SECTORS = [
     ["AVIF to JPG Converter", "https://nutilz.com/avif-to-jpg", "Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, runs entirely client-side in the browser.", true],
     ["Image to ASCII", "https://imagetoascii.art/", "Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, with image processing in the browser.", false],
     ["FileOnTap", "https://fileontap.com/", "Free image and PDF converter; files are processed locally in the browser and are not uploaded.", true],
+    ["Merge PDF", "https://merge-pdf.hexloomlabs.com/", "Combines PDFs into one file in the browser, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
