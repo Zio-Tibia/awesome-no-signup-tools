@@ -64,6 +64,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Drag Task](https://drag-task.web.app/demo) - Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.
 - [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
 - [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
+- [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
 
 ## Privacy
 
