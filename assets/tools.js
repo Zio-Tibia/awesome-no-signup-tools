@@ -18,6 +18,7 @@ const SECTORS = [
     ["Can I Use", "https://caniuse.com/", "Browser support tables for HTML5, CSS3, and other web technologies.", false],
     ["TryDevSnip", "https://trydevsnip.com/", "JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser; processing stays client-side.", true],
     ["QuickTiny", "https://quicktinyv2.vercel.app/", "Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities; processing runs client-side.", true],
+    ["DeployPost", "https://deploypost.com/", "Checks a public website for search metadata, shared-link previews, and email DNS records without an account.", false],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
@@ -40,6 +41,7 @@ const SECTORS = [
     ["Drag Task", "https://drag-task.web.app/demo", "Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.", false],
     ["OutilCalcul", "https://outilcalcul.com", "Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations).", false],
     ["Aulify Gerador de Horários", "https://aulify.pt/gerador-de-horarios/", "School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, data is kept in the browser's local storage.", false],
+    ["Tanzhang", "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en", "Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses; CNY only, with no tax calculation or dedicated export.", false],
   ]},
   { id: "privacy", label: "Privacy", tools: [
     ["SSL Server Test", "https://www.ssllabs.com/ssltest/", "Deep analysis of a domain's SSL/TLS configuration by Qualys.", false],
@@ -55,6 +57,7 @@ const SECTORS = [
     ["AVIF to JPG Converter", "https://nutilz.com/avif-to-jpg", "Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, runs entirely client-side in the browser.", true],
     ["Image to ASCII", "https://imagetoascii.art/", "Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, with image processing in the browser.", false],
     ["FileOnTap", "https://fileontap.com/", "Free image and PDF converter; files are processed locally in the browser and are not uploaded.", true],
+    ["Merge PDF", "https://merge-pdf.hexloomlabs.com/", "Combines PDFs into one file in the browser, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
@@ -63,5 +66,6 @@ const SECTORS = [
     ["Duplicate Line Remover", "https://nutilz.com/duplicate-line-remover", "Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, runs entirely client-side in the browser.", true],
     ["Need Go Home", "https://needgohome.netlify.app/", "Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, runs client-side in the browser.", true],
     ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
+    ["Word Counter Suite", "https://wordcountersuite.com", "Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator.", false],
   ]},
 ];
