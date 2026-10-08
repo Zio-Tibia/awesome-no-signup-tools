@@ -41,7 +41,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [QuickTiny](https://quicktinyv2.vercel.app/) - Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities, no signup; processing runs client-side.
 - [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
 
-
 ## Design
 
 - [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
