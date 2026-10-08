@@ -12,8 +12,11 @@ If you find this list useful, consider [starring the repo](https://github.com/Zi
 - No tools that require a credit card to start, even for a "free trial".
 - Ads or analytics (e.g. AdSense, Google Analytics) on the tool's site are **not** a reason to exclude it. "No signup" and "client-side" refer to how the tool itself processes your data, not to whether the site is ad-supported. Don't claim a tool has no tracking unless you've actually verified it.
 - **One tool per domain.** Only one page from a given root domain (e.g. `example.com`) may be listed, regardless of subpage, tool, subdomain, or language variant. Subdomains count as the same domain as their root (e.g. `tool-a.example.com` and `tool-b.example.com` both count as `example.com`) — this keeps a single site or company from listing separate entries for each of its tools by putting them on different subdomains. This keeps the list diverse and prevents it from being used to bulk-list every page of a single site. Link to the domain's main/root tool page, not a specific sub-tool, unless the root domain isn't itself a usable tool.
-- **No mega-directories or tool aggregators.** Sites whose pitch is "1000+ tools" or a large generic collection spanning many unrelated categories are not accepted, even if individual tools within them would otherwise qualify. This list curates specific, individual tools — not other directories. Link directly to the specific tool that fits a category, not to a hub page listing hundreds of tools.
-- **The tool should be the main thing on its page.** A free tool used mainly as a lead-in to a paid service (most of the page selling consulting, audits, kits or similar offers) is not accepted. Paid plans or upsells alongside a tool that stands on its own are fine.
+- **No mega-directories or tool aggregators.** Sites whose pitch is "1000+ tools" or a large generic collection spanning many unrelated categories are not accepted, even if individual tools within them would otherwise qualify. This list curates specific, individual tools — not other directories. Link directly to the specific tool that fits a category, not to a hub page listing hundreds of tools. A site with several tools that all belong to one category is fine.
+- **The tool should be the main thing on its page.** A free tool used mainly as a lead-in to a paid service (most of the page selling consulting, audits, kits or similar offers) is not accepted. Paid plans or upsells alongside a tool that stands on its own are fine. This includes a paid product offered on the same page, as long as the tool works without buying it.
+- **Client-side and no-tracking claims must be tested.** Say that a tool processes files in the browser, or has no tracking, only if you have checked it yourself (for example in the browser's Network tab). A claim copied from the site's own text or privacy policy is not enough.
+- **Shared hosting platforms are judged by the full hostname.** A tool hosted on a shared platform (for example `*.netlify.app`, `*.vercel.app`, `*.web.app` or `*.chatgpt.site`) qualifies on its own merits. The one-tool-per-domain rule applies to the full hostname, not to the platform's root domain.
+- **Free tiers with stated limits qualify.** If the core function works without an account, and the limits (for example number or size of files) are written in the description, the tool qualifies.
 
 Listed tools get random spot checks after they're added. A tool that no longer meets these rules (for example, it starts requiring an account or puts its main feature behind a paywall) is removed.
 
@@ -22,7 +25,7 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
 ## How to add a tool
 
 1. Add a single line to the relevant category list in [README.md](README.md).
-2. **Add it to the bottom of the list**, not alphabetically. This keeps diffs small and avoids merge conflicts.
+2. **Add it to the bottom of the list**, not alphabetically. Put the new line directly under the last entry, with no blank line in between. This keeps diffs small and avoids merge conflicts.
 3. Use this line format:
 
    ```md
@@ -35,7 +38,7 @@ If a tool is rejected, it may be logged in [no-go-list.md](no-go-list.md) so we 
 ## Description guidelines
 
 - One sentence, factual, no marketing language ("best", "amazing", "revolutionary").
-- Mention if it's client-side processing when true, but don't describe a tool as "privacy-friendly" just because it's client-side — ads/analytics may still be present.
+- Mention client-side processing only when you have tested it (see "What qualifies"), but don't describe a tool as "privacy-friendly" just because it's client-side — ads/analytics may still be present.
 - End with a period.
 
 ## Checklist before opening a PR
