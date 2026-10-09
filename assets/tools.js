@@ -9,6 +9,7 @@ const SECTORS = [
     ["Utilia", "https://utilia-gratis.adriano-aimar12.workers.dev/", "Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.", false],
     ["kdpbook.io Word Search Maker", "https://kdpbook.io/kdp/word-search-maker", "Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, runs client-side in the browser.", true],
     ["TestPageForPrinter", "https://testpageforprinter.com/", "Printable printer test pages as PDFs in Letter and A4 plus a print scale check, the scale calculation runs client-side in the browser.", true],
+    ["Chempirical", "https://chempirical.com/", "Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH.", false],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
