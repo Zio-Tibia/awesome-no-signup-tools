@@ -67,5 +67,6 @@ const SECTORS = [
     ["Need Go Home", "https://needgohome.netlify.app/", "Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, runs client-side in the browser.", true],
     ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
     ["Word Counter Suite", "https://wordcountersuite.com", "Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator.", false],
+    ["Compare Two Lists", "https://comparetwolists.net/", "Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, list processing runs client-side.", true],
   ]},
 ];
