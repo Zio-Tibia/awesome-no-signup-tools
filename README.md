@@ -30,6 +30,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
 - [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
+- [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 
 ## DevTools
 
