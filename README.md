@@ -29,6 +29,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
 - [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
+- [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 
 ## DevTools
 
@@ -39,6 +40,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
 - [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
 - [QuickTiny](https://quicktinyv2.vercel.app/) - Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities, no signup; processing runs client-side.
+- [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
 
 ## Design
 
@@ -63,6 +65,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Drag Task](https://drag-task.web.app/demo) - Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.
 - [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
 - [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
+- [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
 
 ## Privacy
 
@@ -80,6 +83,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [AVIF to JPG Converter](https://nutilz.com/avif-to-jpg) - Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, no signup, runs entirely client-side in the browser.
 - [Image to ASCII](https://imagetoascii.art/) - Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, no signup, with image processing in the browser.
 - [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
+- [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).
 - [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
 
 ## Text & Writing
@@ -90,6 +94,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Duplicate Line Remover](https://nutilz.com/duplicate-line-remover) - Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, no signup, runs entirely client-side in the browser.
 - [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
+- [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
+- [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
 
 ## Contributing
 
