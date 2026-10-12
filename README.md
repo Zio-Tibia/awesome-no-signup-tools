@@ -31,6 +31,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
+- [QuietTake Noise Remover](https://noiseremover.site/) - Free RNNoise speech-noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export, no signup, for files no larger than 50 MB and no longer than five minutes.
 
 ## DevTools
 
