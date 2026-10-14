@@ -52,6 +52,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Unsplash](https://unsplash.com/) - Browse and download free high-resolution stock photos, no signup required.
 - [AI Coloring Page Generator](https://photlin.com/) - Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.
 - [Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser tool to remove image backgrounds with no signup; processing runs locally in the browser.
+- [3D House Planner](https://www.3dhouseplanner.com/app.php) - Free 3D floor planner and home design tool with a furniture catalog, exports GLB, OBJ, STL, IFC, DXF, SVG and PNG, no signup.
 
 ## Productivity
 
