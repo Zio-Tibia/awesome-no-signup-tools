@@ -42,6 +42,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
 - [QuickTiny](https://quicktinyv2.vercel.app/) - Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities, no signup; processing runs client-side.
 - [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
+- [FaviconDL](https://favicondl.com/) - Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key, no signup.
 
 ## Design
 
