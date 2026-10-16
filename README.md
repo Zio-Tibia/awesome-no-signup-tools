@@ -87,6 +87,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
 - [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).
 - [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
+- [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded (free tier: one PDF per email; ZIP of all PDFs and merged PDF are a one-time paid option).
 
 ## Text & Writing
 
