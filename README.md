@@ -32,6 +32,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 
+- [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Free browser WebGL 3D model of the solar system with real orbits and scales, no signup, no account or plug-in required.
+
 ## DevTools
 
 - [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
