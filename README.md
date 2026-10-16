@@ -37,6 +37,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
 - [Regex101](https://regex101.com/) - Regex tester and debugger with real-time explanation, no signup, runs matching client-side in the browser.
 - [JSFiddle](https://jsfiddle.net/) - Online HTML/CSS/JS code editor and playground, no signup required to create and run a fiddle.
+- [FastTools](https://fasttools.me/) - Browser developer utilities (visual crontab generator, JSON to TypeScript/Zod converter, and payment fee calculators); runs 100% client-side with zero data storage.
 - [JSONLint](https://jsonlint.com/) - Validates and reformats JSON, no signup required.
 - [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
 - [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
