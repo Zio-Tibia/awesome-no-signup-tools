@@ -106,3 +106,13 @@ Tools that don't meet our criteria are tracked in [no-go-list.md](no-go-list.md)
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=zio-tibia%2Fawesome-no-signup-tools&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&legend=top-left" />
+ </picture>
+</a>
