@@ -31,6 +31,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
+- [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 
 ## DevTools
 
