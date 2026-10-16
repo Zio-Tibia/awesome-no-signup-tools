@@ -75,6 +75,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.
 - [Metadata Remover](https://metadataremover.ai/) - Inspects and removes supported file metadata locally in the browser, no signup required.
+- [TempMail10min](https://temp-mail10min.online/) - Generates temporary disposable email addresses with automatic inbox expiration, no signup required.
 
 ## Converters
 
