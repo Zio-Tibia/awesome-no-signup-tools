@@ -31,6 +31,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
+- [DefiLPKit](https://defilpkit.com/) - Estimates fee APR, net yield after impermanent loss and gas, and a price range to test for a pasted DeFi liquidity pool address or token pair, read-only with no wallet connection and no signup.
 
 ## DevTools
 
