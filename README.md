@@ -87,7 +87,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
 - [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).
 - [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
-- [PDFLines](https://www.pdflines.com/) - Merges, splits, compresses, and converts PDFs to and from Word, Excel, PowerPoint, JPG, and PNG, no signup required (files are uploaded over HTTPS and deleted about one hour after the job).
+- [PDFLines](https://www.pdflines.com/) - Merges, splits, compresses, and converts PDFs to and from Word, Excel, PowerPoint, JPG, and PNG, no signup required (files are uploaded over HTTPS and deleted about one hour after the job; most tools take one PDF up to 25 MB and 100 pages, PDF to JPG takes up to 2 files and PDF to PNG takes 1, each up to 12 MB and 40 pages, Merge takes 2 to 20 PDFs up to 50 MB each, and Word, PowerPoint, and Excel to PDF take one file up to 15 MB).
 
 ## Text & Writing
 
