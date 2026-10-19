@@ -70,6 +70,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
 - [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
 - [Drible Sign PDF](https://drible.co/pdf/sign) - Adds a drawn, typed or uploaded signature, dates and text to a PDF and downloads a signed copy of the same document, no signup, runs client-side in the browser.
+- [Pactfern notice-date calculator](https://pactfern.com/how-it-works#calculator) - Calculates a notice date from a confirmed renewal date and calendar-day notice period, with a free blank contract-register CSV and no signup required.
 
 ## Privacy
 
