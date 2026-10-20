@@ -32,6 +32,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
+- [Hexvan Trade Calculators](https://hexvan.com/tools) - Material and sizing calculators for building trades (concrete, bricks, tiles, paint, plasterboard, gravel, roof pitch, voltage drop, BTU) in metric or imperial, no signup, calculations run client-side in the browser.
 
 ## DevTools
 
