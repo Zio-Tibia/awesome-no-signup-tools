@@ -90,6 +90,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).
 - [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
 - [PageFold](https://pagefold.tooleek.com/en/) - Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs with no signup; files are processed client-side in the browser and are not uploaded.
+- [Stayput HEIC to JPG](https://stayput.dev/tools/heic-to-jpg) - Converts HEIC photos to JPG or PNG in batches with no signup; files are processed entirely client-side in the browser and the tool works offline after the first visit.
 
 ## Text & Writing
 
