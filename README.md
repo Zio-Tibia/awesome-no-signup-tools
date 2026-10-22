@@ -34,6 +34,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
 
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimates US roof replacement cost ranges by roof size, material, location, and tear-off choice, no signup required.
+
 ## DevTools
 
 - [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
