@@ -94,6 +94,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
 - [PageFold](https://pagefold.tooleek.com/en/) - Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs with no signup; files are processed client-side in the browser and are not uploaded.
 - [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).
+- [TakumiKit Video Converter](https://tools.takumikit.com/tools/video-converter/) - Converts MOV, WebM and MKV videos to MP4, WebM, MOV or MKV with three quality levels, no signup; conversion runs client-side in the browser and the video is not uploaded.
 
 ## Text & Writing
 
