@@ -81,6 +81,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.
 - [Metadata Remover](https://metadataremover.ai/) - Inspects and removes supported file metadata locally in the browser, no signup required.
+- [NO SUS](https://nosus.foo/) - Creates a one-time note or file link (up to 10 files, 50 MB combined) that is encrypted in the browser before upload and deleted after the first open, no signup required.
 
 ## Converters
 
