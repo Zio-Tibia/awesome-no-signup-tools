@@ -58,6 +58,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [CoverNice KDP Cover Calculator](https://covernice.com/kdp-cover-calculator) - Returns KDP spine width, full wrap size and 300 dpi pixel dimensions from trim size, page count and paper stock; no signup and the arithmetic runs in the browser.
 
 ## Productivity
 
