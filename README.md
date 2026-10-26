@@ -49,6 +49,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 ## Design
 
 - [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library; freemium signup credits, no card required for the free tier.
+- [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export with no account required.
 - [Excalidraw](https://excalidraw.com/) - Free virtual whiteboard for sketches and diagrams, no signup, open-source, runs entirely client-side.
 - [Coolors](https://coolors.co/) - Color palette generator, no signup required to generate and explore palettes (saving palettes requires an account).
 - [Google Fonts](https://fonts.google.com/) - Browse and download open-source fonts, no signup required.
