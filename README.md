@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [Zerocost Lab CSV Inspection](https://zerocost-lab-jp.com/tools/csv-inspection-trial/) - Japanese-language checker that flags leading zeros, blank cells, embedded newlines and formula-like values in pasted comma-separated text up to 100,000 characters, free with no signup.
 
 ## DevTools
 
