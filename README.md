@@ -58,6 +58,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [Pic2Vector](https://pic2vector.com/) - Converts PNG, JPG, or WebP images to color SVG with vtracer compiled to WebAssembly, free with no signup and no watermark, with tracing done in the browser and images not uploaded.
 
 ## Productivity
 
