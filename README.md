@@ -58,6 +58,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [ThumbnailSnap](https://thumbnailsnap.com/) - Thumbnail and cover maker that crops your own photo to YouTube, Shorts, TikTok or Reels size, adds editable text and downloads a JPG or PNG with no signup or watermark; this editing runs in the browser, while the optional AI features need an account.
 
 ## Productivity
 
