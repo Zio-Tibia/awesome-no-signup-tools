@@ -11,6 +11,8 @@ const SECTORS = [
     ["TestPageForPrinter", "https://testpageforprinter.com/", "Printable printer test pages as PDFs in Letter and A4 plus a print scale check, the scale calculation runs client-side in the browser.", true],
     ["Chempirical", "https://chempirical.com/", "Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH.", false],
     ["DeclaRenta", "https://declarenta.com/", "Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), calculations run client-side in the browser.", true],
+    ["BJJGraph", "https://bjjgraph.org/", "Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls.", false],
+    ["Spoolyard", "https://braedonsaunders.github.io/spoolyard/", "Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, runs client-side in the browser.", true],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
@@ -21,6 +23,7 @@ const SECTORS = [
     ["TryDevSnip", "https://trydevsnip.com/", "JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser; processing stays client-side.", true],
     ["QuickTiny", "https://quicktinyv2.vercel.app/", "Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities; processing runs client-side.", true],
     ["DeployPost", "https://deploypost.com/", "Checks a public website for search metadata, shared-link previews, and email DNS records without an account.", false],
+    ["FaviconDL", "https://favicondl.com/", "Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key.", false],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
@@ -30,6 +33,9 @@ const SECTORS = [
     ["Unsplash", "https://unsplash.com/", "Browse and download free high-resolution stock photos.", false],
     ["AI Coloring Page Generator", "https://photlin.com/", "Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.", true],
     ["Background Remover", "https://tomaserben.com/free-tools/image-background-remover", "Free browser tool to remove image backgrounds; processing runs locally in the browser.", true],
+    ["Engineering on Web CAD", "https://engineeringonweb.com/cad/?lang=en", "Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF.", false],
+    ["PNG to SVG", "https://applore.app/png-to-svg", "Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free, with tracing done in the browser (an optional AI mode requires an account).", false],
+    ["Cicada", "https://hexenwerkzeug.com/tools/cicada", "Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, files are not uploaded.", false],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking, no signup required to start a session.", false],
@@ -62,6 +68,9 @@ const SECTORS = [
     ["FileOnTap", "https://fileontap.com/", "Free image and PDF converter; files are processed locally in the browser and are not uploaded.", true],
     ["Merge PDF", "https://merge-pdf.hexloomlabs.com/", "Combines PDFs into one file in the browser, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).", true],
     ["SnappyKit", "https://snappykit.site/", "Converts, compresses, resizes and crops images, and strips EXIF metadata; processing runs client-side in the browser.", true],
+    ["PageFold", "https://pagefold.tooleek.com/en/", "Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs; files are processed client-side in the browser and are not uploaded.", true],
+    ["EML to PDF", "https://emltopdf.net/", "Opens .eml and .msg email files and saves each one as a PDF, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).", true],
+    ["PKPASS Viewer", "https://pkpassviewer.com/", "Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
