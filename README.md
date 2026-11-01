@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [DefiLPKit](https://defilpkit.com/) - DeFi liquidity pool calculator for Uniswap v3, PancakeSwap v3, Aerodrome Slipstream and Raydium CLMM that shows fee APR, estimated net yield after impermanent loss and gas, and a price range to test, with no signup and no wallet connect.
 
 ## DevTools
 
@@ -59,6 +60,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [Sticker Printer Hub](https://stickerprinterhub.com/4x7-sticker-sheet-maker/) - Lays out images into printable 4x7 sticker sheets for home sticker printers that print and cut, no signup, no account needed.
 
 ## Productivity
 
