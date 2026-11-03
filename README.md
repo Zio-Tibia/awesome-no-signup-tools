@@ -108,6 +108,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 - [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 - [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
+- [ReadGZH](https://readgzh.site/) - Paste a WeChat Official Account article URL to get an AI-readable page (ChatGPT/Claude/Perplexity can open it); free daily quota with no signup required.
 
 ## Contributing
 
