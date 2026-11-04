@@ -46,6 +46,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
 - [FaviconDL](https://favicondl.com/) - Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key, no signup.
 - [CurlShot](https://curlshot.com/) - Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF, no signup; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.
+- [HAR to cURL](https://onlineminitools.com/har-to-curl) - Turns a HAR capture into a replayable cURL command with the method, headers and request body preserved, no signup; parsing and string building run in the browser, so the HAR is not uploaded.
 
 ## Design
 
