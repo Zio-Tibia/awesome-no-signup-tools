@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [SantaDraw](https://santadraw.net/) - Free Secret Santa and gift-exchange name drawer that works without email signup or accounts.
 
 ## DevTools
 
@@ -126,3 +127,4 @@ To the extent possible under law, the contributors have waived all copyright and
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&legend=top-left" />
  </picture>
 </a>
+
