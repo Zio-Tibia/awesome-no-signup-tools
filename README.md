@@ -45,6 +45,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [QuickTiny](https://quicktinyv2.vercel.app/) - Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities, no signup; processing runs client-side.
 - [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
 - [FaviconDL](https://favicondl.com/) - Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key, no signup.
+- [CurlShot](https://curlshot.com/) - Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF, no signup; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.
 
 ## Design
 
@@ -57,6 +58,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser tool to remove image backgrounds with no signup; processing runs locally in the browser.
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
+- [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
 
 ## Productivity
 
@@ -95,6 +97,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PageFold](https://pagefold.tooleek.com/en/) - Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs with no signup; files are processed client-side in the browser and are not uploaded.
 - [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).
 - [Narqo](https://narqo.com/) - Converts HEIC to JPG and between WebP, PNG, JPG and AVIF, compresses, resizes and crops images, and views or removes EXIF metadata, no signup; processing runs client-side in the browser and files are not uploaded.
+- [PKPASS Viewer](https://pkpassviewer.com/) - Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, no signup, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).
 
 ## Text & Writing
 

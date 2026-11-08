@@ -24,6 +24,7 @@ const SECTORS = [
     ["QuickTiny", "https://quicktinyv2.vercel.app/", "Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities; processing runs client-side.", true],
     ["DeployPost", "https://deploypost.com/", "Checks a public website for search metadata, shared-link previews, and email DNS records without an account.", false],
     ["FaviconDL", "https://favicondl.com/", "Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key.", false],
+    ["CurlShot", "https://curlshot.com/", "Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.", false],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
@@ -35,6 +36,7 @@ const SECTORS = [
     ["Background Remover", "https://tomaserben.com/free-tools/image-background-remover", "Free browser tool to remove image backgrounds; processing runs locally in the browser.", true],
     ["Engineering on Web CAD", "https://engineeringonweb.com/cad/?lang=en", "Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF.", false],
     ["PNG to SVG", "https://applore.app/png-to-svg", "Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free, with tracing done in the browser (an optional AI mode requires an account).", false],
+    ["Cicada", "https://hexenwerkzeug.com/tools/cicada", "Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, files are not uploaded.", false],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking, no signup required to start a session.", false],
@@ -69,6 +71,7 @@ const SECTORS = [
     ["SnappyKit", "https://snappykit.site/", "Converts, compresses, resizes and crops images, and strips EXIF metadata; processing runs client-side in the browser.", true],
     ["PageFold", "https://pagefold.tooleek.com/en/", "Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs; files are processed client-side in the browser and are not uploaded.", true],
     ["EML to PDF", "https://emltopdf.net/", "Opens .eml and .msg email files and saves each one as a PDF, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).", true],
+    ["PKPASS Viewer", "https://pkpassviewer.com/", "Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
