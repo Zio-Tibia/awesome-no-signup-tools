@@ -34,6 +34,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
 - [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
+- [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Free browser WebGL 3D model of the solar system with real orbits and scales, no signup, no account or plug-in required.
 
 ## DevTools
 
