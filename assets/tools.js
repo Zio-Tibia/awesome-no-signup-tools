@@ -13,6 +13,7 @@ const SECTORS = [
     ["DeclaRenta", "https://declarenta.com/", "Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), calculations run client-side in the browser.", true],
     ["BJJGraph", "https://bjjgraph.org/", "Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls.", false],
     ["Spoolyard", "https://braedonsaunders.github.io/spoolyard/", "Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, runs client-side in the browser.", true],
+    ["ReactionMetric", "https://reactionmetric.com/", "Free browser-based reaction time, reflex and mouse double-click tests that work without signup.", false],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
@@ -37,6 +38,7 @@ const SECTORS = [
     ["Engineering on Web CAD", "https://engineeringonweb.com/cad/?lang=en", "Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF.", false],
     ["PNG to SVG", "https://applore.app/png-to-svg", "Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free, with tracing done in the browser (an optional AI mode requires an account).", false],
     ["Cicada", "https://hexenwerkzeug.com/tools/cicada", "Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, files are not uploaded.", false],
+    ["Minecraft Server Icon Maker", "https://bestmcserverlist.net/tools/server-icon", "Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image.", false],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking, no signup required to start a session.", false],
@@ -82,5 +84,6 @@ const SECTORS = [
     ["CharCount", "https://charcount.app/", "Free character, word, and text counter with support for 11 languages, client-side processing.", true],
     ["Word Counter Suite", "https://wordcountersuite.com", "Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator.", false],
     ["Compare Two Lists", "https://comparetwolists.net/", "Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, list processing runs client-side.", true],
+    ["CuteFontGen", "https://cutefontgen.com/", "Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text.", false],
   ]},
 ];

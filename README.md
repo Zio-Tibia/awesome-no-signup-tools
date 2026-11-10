@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
 
 ## DevTools
 
@@ -59,6 +60,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [Minecraft Server Icon Maker](https://bestmcserverlist.net/tools/server-icon) - Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image, no signup.
 
 ## Productivity
 
@@ -108,6 +110,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 - [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 - [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
+- [CuteFontGen](https://cutefontgen.com/) - Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text with no signup.
 - [ReadGZH](https://readgzh.site/) - Paste a WeChat Official Account article URL to get an AI-readable page (ChatGPT/Claude/Perplexity can open it); free daily quota with no signup required.
 
 ## Contributing
