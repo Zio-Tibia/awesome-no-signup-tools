@@ -14,6 +14,7 @@ const SECTORS = [
     ["BJJGraph", "https://bjjgraph.org/", "Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls.", false],
     ["Spoolyard", "https://braedonsaunders.github.io/spoolyard/", "Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, runs client-side in the browser.", true],
     ["ReactionMetric", "https://reactionmetric.com/", "Free browser-based reaction time, reflex and mouse double-click tests that work without signup.", false],
+    ["TreadmillPace", "https://treadmillpace.com/", "Converts treadmill speed in mph or km/h to running pace per mile or km and back.", false],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
