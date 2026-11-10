@@ -27,6 +27,7 @@ const SECTORS = [
     ["DeployPost", "https://deploypost.com/", "Checks a public website for search metadata, shared-link previews, and email DNS records without an account.", false],
     ["FaviconDL", "https://favicondl.com/", "Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key.", false],
     ["CurlShot", "https://curlshot.com/", "Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.", false],
+    ["FastTools", "https://fasttools.me/", "Browser developer utilities including a visual crontab generator, JSON to TypeScript/Zod converter, and payment fee calculators; runs client-side in the browser.", true],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
