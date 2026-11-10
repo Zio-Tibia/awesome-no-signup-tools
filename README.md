@@ -49,6 +49,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [FaviconDL](https://favicondl.com/) - Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key, no signup.
 - [CurlShot](https://curlshot.com/) - Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF, no signup; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.
 - [FastTools](https://fasttools.me/) - Browser developer utilities including a visual crontab generator, JSON to TypeScript/Zod converter, and payment fee calculators; runs client-side in the browser.
+- [BrewPage](https://brewpage.app/) - Publishes HTML, Markdown, JSON or a file to a shareable HTTPS link from the web editor, a curl POST or an MCP server, no signup; free limits without an account: 5 MiB per page or file, links expire after at most 30 days.
 
 ## Design
 
