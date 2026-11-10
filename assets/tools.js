@@ -60,6 +60,7 @@ const SECTORS = [
     ["VirusTotal", "https://www.virustotal.com/", "Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.", false],
     ["Cover Your Tracks", "https://coveryourtracks.eff.org/", "Tests how well your browser is protected from tracking and fingerprinting, a project of the EFF.", false],
     ["Metadata Remover", "https://metadataremover.ai/", "Inspects and removes supported file metadata locally in the browser.", true],
+    ["TempMail10min", "https://temp-mail10min.online/", "Generates temporary disposable email addresses with automatic inbox expiration.", false],
   ]},
   { id: "converters", label: "Converters", tools: [
     ["TinyPNG", "https://tinypng.com/", "Compresses PNG, JPEG, and WebP images (free tier: up to 20 images per batch, 5MB each).", false],
