@@ -63,6 +63,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
 - [Minecraft Server Icon Maker](https://bestmcserverlist.net/tools/server-icon) - Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image, no signup.
+- [StitchXCross](https://stitchxcross.com/) - Turns a photo into a cross stitch chart matched to DMC floss, or lets you draw one stitch by stitch, and exports an unwatermarked PDF chart with a thread list, no signup.
 
 ## Productivity
 
