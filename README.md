@@ -79,6 +79,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
 - [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
 - [Drible Sign PDF](https://drible.co/pdf/sign) - Adds a drawn, typed or uploaded signature, dates and text to a PDF and downloads a signed copy of the same document, no signup, runs client-side in the browser.
+- [Urge Surfing Timer](https://alexzah.com/tools/urge-surfing-timer/) - Gives a 3-, 5- or 10-minute pause to notice an everyday urge without acting on it, no signup, nothing to enter.
 
 ## Privacy
 
