@@ -102,6 +102,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PageFold](https://pagefold.tooleek.com/en/) - Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs with no signup; files are processed client-side in the browser and are not uploaded.
 - [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).
 - [PKPASS Viewer](https://pkpassviewer.com/) - Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, no signup, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).
+- [Video Size Reducer](https://video-size-reducer.com/) - Compresses MP4, MOV, WebM and MKV videos to a target file size such as 8MB or 25MB and outputs an H.264 MP4 with no watermark, no signup required, files are processed on its servers (free tier: limited visitor trial credits, up to 1 GiB per file; an optional free account adds 30 one-time credits).
 
 ## Text & Writing
 
