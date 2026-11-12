@@ -114,6 +114,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 - [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
 - [CuteFontGen](https://cutefontgen.com/) - Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text with no signup.
+- [ReadGZH](https://readgzh.site/) - Paste a WeChat Official Account article URL to get an AI-readable page (ChatGPT/Claude/Perplexity can open it); free daily quota with no signup required.
 
 ## Contributing
 
