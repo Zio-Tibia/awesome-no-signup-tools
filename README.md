@@ -33,6 +33,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
 - [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [No Stairs Please](https://nostairsplease.com/) - Searchable directory and interactive route map of 11,400+ under-400-capacity live music venues across the US, DC, and British Columbia, no signup required to browse.
 - [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
 - [TreadmillPace](https://treadmillpace.com/) - Converts treadmill speed in mph or km/h to running pace per mile or km and back, with no signup.
 
