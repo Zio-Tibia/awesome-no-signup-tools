@@ -35,6 +35,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
 - [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
 - [TreadmillPace](https://treadmillpace.com/) - Converts treadmill speed in mph or km/h to running pace per mile or km and back, with no signup.
+- [InvoiceVerify](https://peppol-invoice-compass.lovable.app/) - Checks UBL, Peppol BIS 3.0, XRechnung and Factur-X/ZUGFeRD e-invoices (XML or PDF) against EN 16931 and Peppol rules and explains each error with its fix, no signup (free tier: 3 checks a month; the invoice is checked on InvoiceVerify's server).
 
 ## DevTools
 
