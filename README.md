@@ -91,6 +91,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 ## Converters
 
 - [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
+  - [zippic](https://zippic.app/) - Free image, video and document tools that run in the browser; compress, convert, crop and merge files, no signup, processing stays client-side.
 - [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
 - [TryQuickImg](https://tryquickimg.com/) - HEIC to JPG, compress to a KB target, resize, crop, and QR tools with no signup; image processing runs client-side in the browser.
