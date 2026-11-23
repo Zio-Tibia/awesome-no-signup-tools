@@ -77,6 +77,7 @@ const SECTORS = [
     ["PageFold", "https://pagefold.tooleek.com/en/", "Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs; files are processed client-side in the browser and are not uploaded.", true],
     ["EML to PDF", "https://emltopdf.net/", "Opens .eml and .msg email files and saves each one as a PDF, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).", true],
     ["PKPASS Viewer", "https://pkpassviewer.com/", "Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).", true],
+    ["PDFZippy", "https://pdfzippy.com/", "37 PDF tools to merge, split, compress, convert, edit, sign, protect and OCR PDFs; files are processed client-side in the browser and are not uploaded.", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
