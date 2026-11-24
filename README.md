@@ -63,6 +63,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
 - [Minecraft Server Icon Maker](https://bestmcserverlist.net/tools/server-icon) - Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image, no signup.
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Converts images into Minecraft block blueprints with material lists, PNG plans and Java NBT export, free with no signup.
 
 ## Productivity
 
