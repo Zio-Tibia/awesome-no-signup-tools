@@ -103,6 +103,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).
 - [PKPASS Viewer](https://pkpassviewer.com/) - Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, no signup, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).
 - [PDFZippy](https://pdfzippy.com/) - 37 PDF tools to merge, split, compress, convert, edit, sign, protect and OCR PDFs, no signup; files are processed client-side in the browser and are not uploaded.
+- [WebP to GIF](https://getsnapshrink.com/webp-to-gif/) - Converts static WebP images to GIF in batches with a quality slider, no signup, runs entirely client-side in the browser (free for the first  10 images per session).
 
 ## Text & Writing
 
