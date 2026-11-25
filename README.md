@@ -115,6 +115,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 - [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
 - [CuteFontGen](https://cutefontgen.com/) - Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text with no signup.
+- [Fancy Text Generator](https://alternativekits.com/tools/fancy-text-generator/) - Converts plain text into 32 Unicode styles for Instagram bios, posts and usernames, with a copy button per style and copy-all; free, no signup and no ads.
 
 ## Contributing
 
