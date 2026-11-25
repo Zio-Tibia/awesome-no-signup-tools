@@ -36,6 +36,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
 - [TreadmillPace](https://treadmillpace.com/) - Converts treadmill speed in mph or km/h to running pace per mile or km and back, with no signup.
 
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimates US roof replacement cost ranges by roof size, material, location, and tear-off choice, no signup required.
+
 ## DevTools
 
 - [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
