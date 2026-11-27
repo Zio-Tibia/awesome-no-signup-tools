@@ -1,0 +1,136 @@
+![Awesome No-Signup Tools](.github/assets/banner.png)
+
+# Awesome No-Signup Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
+
+> A curated list of free, online tools that work with zero signup and zero registration — many of them fully client-side. No account required; note that some tools may still run ads or analytics.
+
+No accounts. No email walls. No "sign up to continue". Just tools you can use right now.
+
+On the [website](https://zio-tibia.github.io/awesome-no-signup-tools/), each tool is tagged **LOCAL** if its description says your data stays in the browser, or **UPLINK** if it doesn't say so (your data may be sent to a server). The tags come from the tools' own descriptions and aren't independently verified. Every tool is reviewed against the [contributing rules](contributing.md) before it's added, and listed tools get random spot checks; a tool that no longer follows them is removed.
+
+Know a tool that fits? See the contributing guidelines (linked in the badge above) and open a PR.
+
+## Contents
+
+- [Utilities](#utilities)
+- [DevTools](#devtools)
+- [Design](#design)
+- [Productivity](#productivity)
+- [Privacy](#privacy)
+- [Converters](#converters)
+- [Text & Writing](#text--writing)
+
+## Utilities
+
+- [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
+- [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
+- [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
+- [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
+- [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
+- [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, no signup, runs client-side in the browser.
+- [TestPageForPrinter](https://testpageforprinter.com/) - Printable printer test pages as PDFs in Letter and A4 plus a print scale check, no signup, the scale calculation runs client-side in the browser.
+- [Chempirical](https://chempirical.com/) - Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH, no signup.
+- [DeclaRenta](https://declarenta.com/) - Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), no signup, calculations run client-side in the browser.
+- [BJJGraph](https://bjjgraph.org/) - Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls, no signup.
+- [Spoolyard](https://braedonsaunders.github.io/spoolyard/) - Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, no signup, runs client-side in the browser.
+- [ReactionMetric](https://reactionmetric.com/) - Free browser-based reaction time, reflex and mouse double-click tests that work without signup.
+- [TreadmillPace](https://treadmillpace.com/) - Converts treadmill speed in mph or km/h to running pace per mile or km and back, with no signup.
+
+## DevTools
+
+- [Diffchecker](https://www.diffchecker.com/) - Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.
+- [Regex101](https://regex101.com/) - Regex tester and debugger with real-time explanation, no signup, runs matching client-side in the browser.
+- [JSFiddle](https://jsfiddle.net/) - Online HTML/CSS/JS code editor and playground, no signup required to create and run a fiddle.
+- [JSONLint](https://jsonlint.com/) - Validates and reformats JSON, no signup required.
+- [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
+- [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
+- [QuickTiny](https://quicktinyv2.vercel.app/) - Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities, no signup; processing runs client-side.
+- [DeployPost](https://deploypost.com/) - Checks a public website for search metadata, shared-link previews, and email DNS records without an account.
+- [FaviconDL](https://favicondl.com/) - Downloads the favicon an existing website already uses, at 16-256px as PNG or ICO (SVG when the site provides one), plus a free JSON API that needs no key, no signup.
+- [CurlShot](https://curlshot.com/) - Takes a screenshot of a web page from its address, whole page or just the top, and downloads it as PNG, JPEG, WebP or PDF, no signup; free limits without an account: 5 captures a minute and a daily cap per visitor, full pages up to 6,000 px tall; the page is rendered on CurlShot's server.
+- [FastTools](https://fasttools.me/) - Browser developer utilities including a visual crontab generator, JSON to TypeScript/Zod converter, and payment fee calculators; runs client-side in the browser.
+
+## Design
+
+- [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
+- [Excalidraw](https://excalidraw.com/) - Free virtual whiteboard for sketches and diagrams, no signup, open-source, runs entirely client-side.
+- [Coolors](https://coolors.co/) - Color palette generator, no signup required to generate and explore palettes (saving palettes requires an account).
+- [Google Fonts](https://fonts.google.com/) - Browse and download open-source fonts, no signup required.
+- [Unsplash](https://unsplash.com/) - Browse and download free high-resolution stock photos, no signup required.
+- [AI Coloring Page Generator](https://photlin.com/) - Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.
+- [Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser tool to remove image backgrounds with no signup; processing runs locally in the browser.
+- [Engineering on Web CAD](https://engineeringonweb.com/cad/?lang=en) - Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF, no signup.
+- [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
+- [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
+- [Minecraft Server Icon Maker](https://bestmcserverlist.net/tools/server-icon) - Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image, no signup.
+
+## Productivity
+
+- [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
+- [World Time Buddy](https://www.worldtimebuddy.com/) - Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings).
+- [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
+- [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
+- [Privnote](https://privnote.com/) - Creates a self-destructing note that deletes itself after being read once, no signup required.
+- [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
+- [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
+- [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
+- [Drag Task](https://drag-task.web.app/demo) - Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.
+- [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
+- [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
+- [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
+- [Drible Sign PDF](https://drible.co/pdf/sign) - Adds a drawn, typed or uploaded signature, dates and text to a PDF and downloads a signed copy of the same document, no signup, runs client-side in the browser.
+
+## Privacy
+
+- [SSL Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of a domain's SSL/TLS configuration by Qualys, no signup required.
+- [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.
+- [Metadata Remover](https://metadataremover.ai/) - Inspects and removes supported file metadata locally in the browser, no signup required.
+- [TempMail10min](https://temp-mail10min.online/) - Generates temporary disposable email addresses with automatic inbox expiration, no signup required.
+
+## Converters
+
+- [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
+- [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
+- [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
+- [TryQuickImg](https://tryquickimg.com/) - HEIC to JPG, compress to a KB target, resize, crop, and QR tools with no signup; image processing runs client-side in the browser.
+- [AVIF to JPG Converter](https://nutilz.com/avif-to-jpg) - Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, no signup, runs entirely client-side in the browser.
+- [Image to ASCII](https://imagetoascii.art/) - Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, no signup, with image processing in the browser.
+- [FileOnTap](https://fileontap.com/) - Free image and PDF converter with no signup; files are processed locally in the browser and are not uploaded.
+- [Merge PDF](https://merge-pdf.hexloomlabs.com/) - Combines PDFs into one file in the browser, no signup, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).
+- [SnappyKit](https://snappykit.site/) - Converts, compresses, resizes and crops images, and strips EXIF metadata, with no signup; processing runs client-side in the browser.
+- [PageFold](https://pagefold.tooleek.com/en/) - Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs with no signup; files are processed client-side in the browser and are not uploaded.
+- [EML to PDF](https://emltopdf.net/) - Opens .eml and .msg email files and saves each one as a PDF, no signup, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).
+- [PKPASS Viewer](https://pkpassviewer.com/) - Opens Apple Wallet .pkpass files in any browser, including on Android and Windows, and shows the pass and its barcode, no signup, the file is read client-side and not uploaded (free: viewing and PNG export; print-ready PDF export is paid).
+- [PDFZippy](https://pdfzippy.com/) - 37 PDF tools to merge, split, compress, convert, edit, sign, protect and OCR PDFs, no signup; files are processed client-side in the browser and are not uploaded.
+- [PDF Smart Kit](https://pdfsmartkit.org/) - 35 PDF tools to merge, split, compress, convert, watermark, protect and unlock, no signup; files are processed client-side in the browser and are not uploaded.
+
+## Text & Writing
+
+- [LanguageTool](https://languagetool.org/) - Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.
+- [DeepL Translate](https://www.deepl.com/translator) - Machine translation across 30+ languages, no signup required for the web translator.
+- [Google Translate](https://translate.google.com/) - Machine translation across 100+ languages, no signup required.
+- [Duplicate Line Remover](https://nutilz.com/duplicate-line-remover) - Removes duplicate lines from text, lists, or logs with options for case sensitivity, whitespace trimming, and sorting, no signup, runs entirely client-side in the browser.
+- [Need Go Home](https://needgohome.netlify.app/) - Generates short, professional messages for telling your manager you need to leave work early, across a range of situations and languages, no signup, runs client-side in the browser.
+- [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
+- [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
+- [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
+- [CuteFontGen](https://cutefontgen.com/) - Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text with no signup.
+
+## Contributing
+
+Tools that don't meet our criteria are tracked in [no-go-list.md](no-go-list.md). See the contributing guidelines linked above for how to add a tool.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
+
+To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=zio-tibia%2Fawesome-no-signup-tools&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zio-tibia/awesome-no-signup-tools&type=date&legend=top-left" />
+ </picture>
+</a>
