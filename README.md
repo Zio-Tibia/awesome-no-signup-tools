@@ -63,6 +63,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PNG to SVG](https://applore.app/png-to-svg) - Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free with no signup, with tracing done in the browser (an optional AI mode requires an account).
 - [Cicada](https://hexenwerkzeug.com/tools/cicada) - Draws and edits 2D CAD drawings in the browser, imports DXF and exports DXF and SVG, no signup, files are not uploaded.
 - [Minecraft Server Icon Maker](https://bestmcserverlist.net/tools/server-icon) - Creates a 64×64 server-icon.png for Minecraft servers from templates, letters or an uploaded image, no signup.
+- [YouTube Thumbnail Tester](https://youtubethumbnailtester.com/) - Browser-local YouTube thumbnail and title previewer across 8 desktop and mobile feed layouts in light and dark mode, nothing uploaded and no signup required.
 
 ## Productivity
 
@@ -79,6 +80,9 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Aulify Gerador de Horários](https://aulify.pt/gerador-de-horarios/) - School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, no signup, data is kept in the browser's local storage.
 - [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) - Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses, no signup; CNY only, with no tax calculation or dedicated export.
 - [Drible Sign PDF](https://drible.co/pdf/sign) - Adds a drawn, typed or uploaded signature, dates and text to a PDF and downloads a signed copy of the same document, no signup, runs client-side in the browser.
+- [One Pager Template](https://onepagertemplate.com/) - Browser-local one-pager document builder exporting to Word, PowerPoint, and PDF, no signup required.
+- [Profit and Loss Statement Template](https://profitandlossstatementtemplate.com/) - Client-side P&L statement builder from local CSV files with Excel, Word, and PDF templates, no signup and nothing uploaded.
+- [Shot List Template](https://shotlisttemplate.com/) - Free film and video shot list maker from pasted scenes exporting to Excel, Google Sheets, CSV, and PDF, no signup required.
 
 ## Privacy
 
@@ -115,6 +119,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, and reading time calculator, no signup required.
 - [Compare Two Lists](https://comparetwolists.net/) - Compares pasted lists and TXT, CSV or XLSX single-column data to find shared values, one-sided differences and duplicates, with exports, no signup, list processing runs client-side.
 - [CuteFontGen](https://cutefontgen.com/) - Free Unicode font style generator for cute, kawaii, bubble and Instagram bio text with no signup.
+- [2 Week Notice Template](https://2weeknoticetemplate.com/) - Client-side two-week resignation letter builder with instant copy and Word/PDF download, no signup required.
 
 ## Contributing
 
